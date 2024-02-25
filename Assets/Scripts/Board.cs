@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class Board : MonoBehaviour
 {
-    [SerializeField]
-    private Grid grid;
+    [SerializeField] private Grid grid;
 
     private void Awake()
     {
