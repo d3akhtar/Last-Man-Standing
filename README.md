@@ -4,7 +4,7 @@ Note: This is an early prototype. All art is placeholder art, and this was uploa
 
 In Last Man Standing (LMS), players challenge their memory and try to outlive their friends in a back-and-forth game of survival and escape.  You can read more about the rules of the game here: LMS - Rulebook Prototype 4
 
-Download [here](https://opensand.itch.io/last-man-standing)
+Download [here](https://sunstation.itch.io/last-man-standing)
 
 This is the first Unity project where I implemented Unity's Netcode solution to add multiplayer to the game
 
